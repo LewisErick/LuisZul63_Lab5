@@ -1,0 +1,11 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.shoppingListItemDiv {
+    border-style: solid;
+}
+
+ul {
+    list-style-type: none;
+}
